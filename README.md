@@ -3,7 +3,7 @@
 
 Here are our projects:
 
-<font color="green">Coming soon...</font>
+Coming soon...
 
 Here is the QR code for our QQ group:
 
