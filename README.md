@@ -1,5 +1,5 @@
-# <img src="img/logo.png" alt="logo" height="40">Cyber Blazers
-**Cyber Blazers **is a non-profit organization for discuss about problems in the real world and tackle them in practice. *We aims to make the world a better place.* Our members are from different fields and we do brain storming togther.
+# <img src="img/logo.png" alt="logo" height="35">Cyber Blazers
+**Cyber Blazers** is a non-profit organization for discuss about problems in the real world and tackle them in practice. *We aims to make the world a better place.* Our members are from different fields and we do brain storming togther.
 
 Here are our projects:
 
